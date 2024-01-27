@@ -8,7 +8,7 @@ import { cn } from '@/lib/utils';
 import {
   AuthCredentialsValidator,
   TAuthCredentialsValidator,
-} from '@/lib/validators/account-credentials-validators';
+} from '@/lib/validators/account-credentials-validator';
 import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { useForm } from 'react-hook-form';
